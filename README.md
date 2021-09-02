@@ -2,20 +2,20 @@
 
 ---
 
-//<p align="center">
-//  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-// </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
 I am a Full-stack Web Developer who is passionate about the web and the IoT. :wink:
  
- //🔭 Im currently working on Customizable Chatbot
+ 🔭 Im currently working on Accesa Automatization
  
- 🌱 I’m currently learning Django
+ 🌱 I’m currently learning React
  
- :books: I want to learn React
+ :books: I want to learn Django | Nest.js
  
   
- 💬 Ask me about Full Stack Development, IoT, and etc.
+ 💬 Ask me about Full Stack Development or  IoT.
 
 
 
@@ -45,9 +45,9 @@ I am a Full-stack Web Developer who is passionate about the web and the IoT. :wi
 ### You can find in me in the web 🌍
 
 
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Fernando Obregon |  Page" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Fernando Obregon| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Fernando Obregon| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
@@ -55,7 +55,7 @@ I am a Full-stack Web Developer who is passionate about the web and the IoT. :wi
 ---
 
 
-[website]: https://souravdey777.github.io/Portfolio/
+[website]: https://feernandooff.github.io/
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
+[instagram]: https://www.instagram.com/feernandooff/
+[linkedin]: https://www.linkedin.com/in/feernandooff/

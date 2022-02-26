@@ -7,9 +7,9 @@ I am a Full-stack Web Developer who is passionate about the web and the IoT. :wi
  
  🔭 Im currently working as Freelancer
  
- 🌱 I’m currently learning React
+ 🌱 I’m currently learning Python and Nextjs
  
- :books: I want to learn Django | Nest.js
+ :books: I want to learn Django
  
   
  💬 Ask me about Full Stack Development or  IoT.

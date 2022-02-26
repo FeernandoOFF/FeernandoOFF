@@ -5,7 +5,7 @@
 
 I am a Full-stack Web Developer who is passionate about the web and the IoT. :wink:
  
- 🔭 Im currently working on Accesa Automatization
+ 🔭 Im currently working as Freelancer
  
  🌱 I’m currently learning React
  

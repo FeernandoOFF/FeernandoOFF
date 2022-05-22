@@ -21,22 +21,19 @@ I am a Full-stack Web Developer who is passionate about the web and the IoT. :wi
 
 ### Tech & Tools Preference
 
-- React (Next.js)
+- Svelte & Vue
+- Flutter
 - Tailwind CSS
-- Blitz.js
 - Nest.js
-- Express
-- MySQL
 - Docker
-- React Native
+
 
 ### I also like to work with
 
-- WebSockets
-- MQTT
 - Three.js
 - Rive
-- Framer-Motion
+- WebSockets
+- MQTT
 
 
 

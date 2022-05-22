@@ -5,11 +5,11 @@
 
 I am a Full-stack Web Developer who is passionate about the web and the IoT. :wink:
  
- 🔭 Im currently working as Freelancer
+ 🔭 Im currently working at Tapadoo
  
- 🌱 I’m currently learning Python and Computer Vision
+ 🌱 I’m currently learning about the life
  
- :books: I want to learn Django
+ :books: I want to learn Flutter
  
   
  💬 Ask me about Full Stack Development or  IoT.

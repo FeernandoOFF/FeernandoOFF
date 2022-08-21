@@ -1,61 +1,31 @@
-### WELCOME!
+<h1 align="center">Hi 👋, I'm Fernando Obregon</h1>
+<h3 align="center">A passionate software developer watching the world go by</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=feernandooff&label=Profile%20views&color=0e75b6&style=flat" alt="feernandooff" /> </p>
 
+- 🔭 I’m currently working on **Create crazy things**
 
-I am a Full-stack Web Developer who is passionate about the web and the IoT. :wink:
- 
- 🔭 Im currently working at Tapadoo
- 
- 🌱 I’m currently learning about the life
- 
- :books: I want to learn Flutter
- 
-  
- 💬 Ask me about Full Stack Development or  IoT.
+- 🌱 I’m currently learning **Astro.js / Flutter**
 
+- 👨‍💻 All of my projects are available at [feernandooff.com](feernandooff.com)
 
+- 📝 I regularly write articles on [garden.feernandooff.com](garden.feernandooff.com)
 
----
+- 💬 Ask me about **IoT and Web development**
 
+- 📫 How to reach me **ferobregon03@gmail.com**
 
-### Tech & Tools Preference
+- ⚡ Fun fact **Astro will standardize the front-end developer world**
 
-- Svelte & Vue
-- Flutter
-- Tailwind CSS
-- Nest.js
-- Docker
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/feernandooff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feernandooff" height="30" width="40" /></a>
+<a href="https://instagram.com/feernandooff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feernandooff" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-### I also like to work with
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feernandooff&show_icons=true&locale=en&layout=compact" alt="feernandooff" /></p>
 
-- Three.js
-- Rive
-- WebSockets
-- MQTT
-
-
-
-### You can find in me in the web 🌍
-
-
-[<img align="left" alt="Fernando Obregon |  Page" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Fernando Obregon| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Fernando Obregon| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-
-
----
-
-
-[website]: https://feernandooff.com/
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/feernandooff/
-[linkedin]: https://www.linkedin.com/in/feernandooff/
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4778.543766424161!2d-6.6719223209808485!3d53.21297331875216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e843e8ad1c3%3A0xabe3d5ca2c129a80!2sRushe&#39;s%20SuperValu%20Naas!5e0!3m2!1sen!2sie!4v1661105784097!5m2!1sen!2sie" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<strong>xd</strong>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feernandooff&show_icons=true&locale=en" alt="feernandooff" /></p>

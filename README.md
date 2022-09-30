@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ferobregon03@gmail.com**
 
-- ⚡ Fun fact **Astro will standardize the front-end developer world**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

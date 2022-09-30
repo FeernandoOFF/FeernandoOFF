@@ -3,6 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feernandooff&label=Profile%20views&color=0e75b6&style=flat" alt="feernandooff" /> </p>
 
+
+
+                      .-.
+         boo!        /aa \_
+                   __\-  / )                 .-.
+         .-.      (__/    /        haha    _/oo \
+       _/ ..\       /     \               ( \v  /__
+      ( \  u/__    /       \__             \/   ___)
+       \    \__)   \_.-._._   )  .-.       /     \
+       /     \             `-`  / ee\_    /       \_
+    __/       \               __\  o/ )   \_.-.__   )
+   (   _._.-._/     hoho     (___   \/           '-'
+    '-'                        /     \
+                             _/       \    teehee
+                            (   __.-._/
+
+
+## Still here? Maybe you'd like to know
+
 - 🔭 I’m currently working on **[Obsidian-Astro Integration](https://github.com/FeernandoOFF/obsidian-astro)**
 
 - 🌱 I want to learn Swift / Flutter

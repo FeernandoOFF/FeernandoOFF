@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Astro.js / Flutter**
 
-- 👨‍💻 All of my projects are available at [feernandooff.com](feernandooff.com)
+- 👨‍💻 All of my projects are available at [feernandooff.com](https://feernandooff.com)
 
-- 📝 I regularly write articles on [garden.feernandooff.com](garden.feernandooff.com)
+- 📝 I regularly write articles on [garden.feernandooff.com](https://garden.feernandooff.com)
 
 - 💬 Ask me about **IoT and Web development**
 

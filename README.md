@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Obregon</h1>
-<h3 align="center">A passionate software developer watching the world go by</h3>
+<h3 align="center">Frontend but not just frontend :) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feernandooff&label=Profile%20views&color=0e75b6&style=flat" alt="feernandooff" /> </p>
 

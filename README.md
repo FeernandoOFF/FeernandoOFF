@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feernandooff&label=Profile%20views&color=0e75b6&style=flat" alt="feernandooff" /> </p>
 
-- 🔭 I’m currently working on **Create crazy things**
+- 🔭 I’m currently working on **[Obsidian-Astro Integration](https://github.com/FeernandoOFF/obsidian-astro)**
 
-- 🌱 I’m currently learning **Astro.js / Flutter**
+- 🌱 I want to learn Swift / Flutter
 
 - 👨‍💻 All of my projects are available at [feernandooff.com](https://feernandooff.com)
 
 - 📝 I regularly write articles on [garden.feernandooff.com](https://garden.feernandooff.com)
 
-- 💬 Ask me about **IoT and Web development**
+- 💬 Ask me about ** Web Development**
 
 - 📫 How to reach me **ferobregon03@gmail.com**
 
@@ -23,8 +23,8 @@
 <a href="https://instagram.com/feernandooff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feernandooff" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Main Languages and Tools:</h2>
 
+<h2 align="left">Main Languages and Tools:</h2>
 
 
 <p style="display:flex; gap:4px;" >

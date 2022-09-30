@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feernandooff&label=Profile%20views&color=0e75b6&style=flat" alt="feernandooff" /> </p>
 
 
-
+<code>
                       .-.
          boo!        /aa \_
                    __\-  / )                 .-.
@@ -18,7 +18,7 @@
     '-'                        /     \
                              _/       \    teehee
                             (   __.-._/
-
+</code>
 
 ## Still here? Maybe you'd like to know
 

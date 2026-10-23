@@ -25,19 +25,26 @@
 
 - 🔭 Currently working on [**mockstro**](https://github.com/FeernandoOFF/mockstro) (Go CLI/TUI for deterministic Maestro + WireMock UI testing) and [**kinuvo**](https://github.com/FeernandoOFF/kinuvo) (self-hosted personal AI assistant, Kotlin)
 
-- 🌱 Learning Swift
+- 🌱 Going deep on **Kotlin Multiplatform** & **Compose Multiplatform**
 
 - 💬 Ask me about **Web Development**, **Mobile Development** and **AI tooling**
-
-- 🌐 [feernandooff.com](https://feernandooff.com)
 
 - 📫 How to reach me **me@feernandooff.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/feernandooff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feernandooff" height="30" width="40" /></a>
-<a href="https://instagram.com/feernandooff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feernandooff" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/feernandooff/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+<a href="https://feernandooff.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://garden.feernandooff.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Digital_Garden-2E7D32?style=for-the-badge&logo=obsidian&logoColor=white" alt="Digital Garden" /></a>
+<a href="https://medium.com/@ferobregon03" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Blog on Medium" /></a>
 </p>
+
+## Featured projects
+
+- 🤖 [**kinuvo**](https://github.com/FeernandoOFF/kinuvo) — Self-hosted personal AI assistant with memory, knowledge (Obsidian, Anytype), routines, MCP & skills. Desktop, Android, web & CLI clients. *(Kotlin)*
+- 🧪 [**mockstro**](https://github.com/FeernandoOFF/mockstro) — Deterministic Android & iOS UI testing with Maestro and WireMock. CLI + TUI for local dev, agents and CI. *(Go)*
+- 🔐 [**raycast-protonpass-extension**](https://github.com/FeernandoOFF/raycast-protonpass-extension) — Access your Proton Pass vault from Raycast via the Proton Pass CLI. *(TypeScript)*
+- ⌨️ [**Vimdroid**](https://github.com/FeernandoOFF/Vimdroid) — Keyboard-first navigation for Android. *(Kotlin)*
 
 <h2 align="left">Main Languages and Tools:</h2>
 
@@ -46,7 +53,6 @@
 <a href="https://kotlinlang.org/docs/multiplatform.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin Multiplatform" width="40" height="40"/></a>
 <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose and Compose Multiplatform" width="40" height="40"/></a>
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>
-<a href="https://www.swift.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/></a>
 </p>
 
 <h3>Web development</h3>
